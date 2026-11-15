@@ -31,7 +31,7 @@ org = "com.mycompany"
 product = "englishapp"
 company = "Flet"
 copyright = "Copyright (C) 2023-2026 by Flet"
-
+app_module = "main.py"
 # src/assets/icon.png is the icon for every platform. Keep it transparent and
 # filling the whole canvas: web, Windows and Linux show it as-is, and Flet
 # shrinks it to the margin iOS, macOS and Android each mask away. This colour
